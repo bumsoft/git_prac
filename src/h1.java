@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class h1 {
+public class h1 {
+    //1
 }
